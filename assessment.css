@@ -1,0 +1,33 @@
+body{
+    background-color: #C9B79C;
+    color: #fdffff;
+    width: 500px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;    
+}
+image{
+   width: 50; 
+   margin : 0 auto
+}
+h1, p {
+    color: rgb(85, 81, 81);
+}
+p{
+    font-weight: bold;
+}
+button{
+    color: #0e0d0d;
+    font-weight: bolder;
+    padding: 5px 20px;
+    background-color: #9fBf9C;
+    border-style: none;
+    border-radius:100px;
+    font-family:'Times New Roman', Times, serif; 
+}
+input{
+    height: 28px;
+    border-style: none;
+    border-radius: 100px;
+}
