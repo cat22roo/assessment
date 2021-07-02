@@ -5,7 +5,7 @@ body{
     margin-right: auto;
     margin-left: auto;
     text-align: center;
-    font-family:'Times New Roman', Times, serif;    
+    font-family: 'Potta One', cursive;    
 }
 image{
    width: 50; 
@@ -19,12 +19,11 @@ p{
 }
 button{
     color: #0e0d0d;
-    font-weight: bolder;
     padding: 5px 20px;
     background-color: #9fBf9C;
     border-style: none;
     border-radius:100px;
-    font-family:'Times New Roman', Times, serif; 
+    font-family: 'Potta One', cursive; 
 }
 input{
     height: 28px;
